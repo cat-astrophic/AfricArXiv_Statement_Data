@@ -1,0 +1,1 @@
+This data file contains a listing >3,400 of open access papers published in Elsevier journals which pertain to racism in some capacity. The list was built through a Scopus keyword + title + abstract search for relevant keyowrds. The column "links" contians the url for each paper.
